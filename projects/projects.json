@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Random Password Generator",
+    "desc": "Python script that generates Random Strong passwords using Uppercase letters, Lowercase letters, Numbers & Special Characters",
+    "image": "passgen",
+    "category": "python",
+    "links": {
+      "view": "https://github.com/liferacer333/random-password-generator",
+      "code": "https://github.com/liferacer333/random-password-generator"
+    }
+  },
+  {
+    "name": "Port Scanner",
+    "desc": "It Scans for Well-Known Common Ports",
+    "image": "PortScanner",
+    "category": "python",
+    "links": {
+      "view": "https://github.com/liferacer333/PortScanner",
+      "code": "https://github.com/liferacer333/PortScanner"
+    }
+  },
+  {
+    "name": "Web Scraping",
+    "desc": "Scraping Amazon Product using BeautifulSoup",
+    "image": "webscrap",
+    "category": "BeautifulSoup",
+    "links": {
+      "view": "https://github.com/liferacer333/amazon_webscrap",
+      "code": "https://github.com/liferacer333/amazon_webscrap"
+    }
+  }
+]
